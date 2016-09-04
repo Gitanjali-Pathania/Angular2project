@@ -3,9 +3,7 @@
 
 *Steps to Start App*
 
->Download the file
->Remove .txt (Or Rename angular2-quickstart.zip.txt to angular2-quickstart.zip)
->Unzip angular2-quickstart.zip to get angular2-quickstart folder
+>clone the project
 >cd angular2-quickstart
 >npm start
 >Open http://localhost:3000/index.html
