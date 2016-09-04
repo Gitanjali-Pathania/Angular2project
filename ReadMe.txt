@@ -22,3 +22,9 @@
 >Histogram contains Brush feature (implemented in d3.js) to interlink the two components (selecting histogram buckets will filter the table data)
 >Contains a Dropdown to filter the data based on dimensions.
 >Bootstrap menu that currently redirects to the main page only.
+
+
+
+*Check out this link to see how it looks*
+
+https://gitanjali-pathania.github.io/Angular2project/index.html
